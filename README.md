@@ -1,0 +1,1 @@
+A GraphQL server created using express-graphql. The database server is the json-web-server which has the data of Users and Companies. Both Users and Companies are related and it is possible to move from user to company or company to user (bi-directional).
